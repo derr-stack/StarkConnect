@@ -21,6 +21,9 @@
 
 StarkConnect was designed to streamline your experience with StarkWare. This chatbot helps you navigate through StarkWare's extensive documentation and assists in setting up smart contracts. Say goodbye to endless scrolling and hello to instant, accurate information.
 
+## Demo
+Try out StarkConnect - https://stark-connect.vercel.app
+
 ## 🎨 Enhanced UX Design 🎨
 <p align="center">
   <img width='600' src="./diagram/ux_design.png">
