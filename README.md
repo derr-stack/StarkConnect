@@ -25,10 +25,6 @@ StarkConnect was designed to streamline your experience with StarkWare. This cha
 Try out StarkConnect - https://stark-connect.vercel.app
 
 ## 🎨 Enhanced UX Design 🎨
-<p align="center">
-  <img width='600' src="./diagram/ux_design.png">
-</p>
-
 We've put a strong emphasis on user experience, making it easier than ever for users to interact with the platform and get the information they need.
 
 ## 🌟 Features - What Sets Us Apart 🌟
